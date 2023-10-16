@@ -8,4 +8,4 @@
 <p>The Find.Music app is still in beta testing and thus will not be liable for unsatisfied experiences. We are working to update the site's capabilities and will update whenever updates are available.</p>
 
 <h2>Licenses</h2>
-<p></p>
+<p>The Find.Music app is licensed under the terms of the GPL Open Source license and is available for free.</p>
