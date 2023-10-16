@@ -135,11 +135,11 @@ form.form button:hover{
 #d > div {
     background-color: rgb(226, 216, 216);
     margin: 10px;
-    margin-top: 3%;
+    margin-top: 5px;
     padding: 10px;
     font-size: 18px;
     height: 40%;
-    width: 180px;
+    width: 280px;
   }
 
 
@@ -264,3 +264,6 @@ form.form button:hover{
     opacity: 1;
   }
 
+.red{
+    -webkit-text-fill-color: red;
+}

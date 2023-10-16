@@ -52,10 +52,11 @@ form.addEventListener('submit', (event) => {
         i2.src = short[1].recommended_song.header_image_url;
         i3.src = short[2].recommended_song.header_image_url;
 
-        const myTimeout = setTimeout(greekSalad, 3000);
+        const myTimeout = setTimeout(greekSalad, 1000);
 
         function greekSalad() {
-            divy.style.visibility='visible';
+            divy.style.display = 'flex';
+            window.scrollBy(0, 800);
         };
 
 
